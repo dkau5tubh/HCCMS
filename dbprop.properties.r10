@@ -1,0 +1,4 @@
+driver=oracle.jdbc.driver.OracleDriver
+url=jdbc:oracle:thin@LAB1-18.YASHODHAN.SEEDINFOTECH:1521:xe
+dbuser=project_29
+dbpassword=project_29
